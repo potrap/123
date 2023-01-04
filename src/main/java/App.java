@@ -6,7 +6,7 @@ public class App {
         System.out.println("fkldj");
     }
     public static void all1(){
-        System.out.println("fkldj");
+        System.out.println("fklssj");
     }
 
 }
